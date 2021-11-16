@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Детский тестик</string>
+    <string name="hint">В ответе есть цифра %d</string>
+    <string name="answer_title">Ответ:</string>
+    <string name="answer_value">%d %s %d</string>
+    <string name="question_label">Получить подсказку?</string>
+    <string name="result">Оценка: %s</string>
+    <string name="replay">Повторить?</string>
+</resources>
